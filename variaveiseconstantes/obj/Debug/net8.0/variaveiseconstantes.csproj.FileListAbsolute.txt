@@ -1,0 +1,14 @@
+C:\Users\evellyn.bgrocha\source\repos\variaveiseconstantes\bin\Debug\net8.0\variaveiseconstantes.exe
+C:\Users\evellyn.bgrocha\source\repos\variaveiseconstantes\bin\Debug\net8.0\variaveiseconstantes.deps.json
+C:\Users\evellyn.bgrocha\source\repos\variaveiseconstantes\bin\Debug\net8.0\variaveiseconstantes.runtimeconfig.json
+C:\Users\evellyn.bgrocha\source\repos\variaveiseconstantes\bin\Debug\net8.0\variaveiseconstantes.dll
+C:\Users\evellyn.bgrocha\source\repos\variaveiseconstantes\bin\Debug\net8.0\variaveiseconstantes.pdb
+C:\Users\evellyn.bgrocha\source\repos\variaveiseconstantes\obj\Debug\net8.0\variaveiseconstantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evellyn.bgrocha\source\repos\variaveiseconstantes\obj\Debug\net8.0\variaveiseconstantes.AssemblyInfoInputs.cache
+C:\Users\evellyn.bgrocha\source\repos\variaveiseconstantes\obj\Debug\net8.0\variaveiseconstantes.AssemblyInfo.cs
+C:\Users\evellyn.bgrocha\source\repos\variaveiseconstantes\obj\Debug\net8.0\variaveiseconstantes.csproj.CoreCompileInputs.cache
+C:\Users\evellyn.bgrocha\source\repos\variaveiseconstantes\obj\Debug\net8.0\variaveiseconstantes.dll
+C:\Users\evellyn.bgrocha\source\repos\variaveiseconstantes\obj\Debug\net8.0\refint\variaveiseconstantes.dll
+C:\Users\evellyn.bgrocha\source\repos\variaveiseconstantes\obj\Debug\net8.0\variaveiseconstantes.pdb
+C:\Users\evellyn.bgrocha\source\repos\variaveiseconstantes\obj\Debug\net8.0\variaveiseconstantes.genruntimeconfig.cache
+C:\Users\evellyn.bgrocha\source\repos\variaveiseconstantes\obj\Debug\net8.0\ref\variaveiseconstantes.dll
