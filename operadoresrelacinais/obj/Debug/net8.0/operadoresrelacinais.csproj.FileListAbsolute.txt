@@ -1,0 +1,15 @@
+C:\Users\evellyn.bgrocha\source\repos\operadoresrelacinais\bin\Debug\net8.0\operadoresrelacinais.exe
+C:\Users\evellyn.bgrocha\source\repos\operadoresrelacinais\bin\Debug\net8.0\operadoresrelacinais.deps.json
+C:\Users\evellyn.bgrocha\source\repos\operadoresrelacinais\bin\Debug\net8.0\operadoresrelacinais.runtimeconfig.json
+C:\Users\evellyn.bgrocha\source\repos\operadoresrelacinais\bin\Debug\net8.0\operadoresrelacinais.dll
+C:\Users\evellyn.bgrocha\source\repos\operadoresrelacinais\bin\Debug\net8.0\operadoresrelacinais.pdb
+C:\Users\evellyn.bgrocha\source\repos\operadoresrelacinais\obj\Debug\net8.0\operadoresrelacinais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evellyn.bgrocha\source\repos\operadoresrelacinais\obj\Debug\net8.0\operadoresrelacinais.AssemblyInfoInputs.cache
+C:\Users\evellyn.bgrocha\source\repos\operadoresrelacinais\obj\Debug\net8.0\operadoresrelacinais.AssemblyInfo.cs
+C:\Users\evellyn.bgrocha\source\repos\operadoresrelacinais\obj\Debug\net8.0\operadoresrelacinais.csproj.CoreCompileInputs.cache
+C:\Users\evellyn.bgrocha\source\repos\operadoresrelacinais\obj\Debug\net8.0\operadoresrelacinais.sourcelink.json
+C:\Users\evellyn.bgrocha\source\repos\operadoresrelacinais\obj\Debug\net8.0\operadoresrelacinais.dll
+C:\Users\evellyn.bgrocha\source\repos\operadoresrelacinais\obj\Debug\net8.0\refint\operadoresrelacinais.dll
+C:\Users\evellyn.bgrocha\source\repos\operadoresrelacinais\obj\Debug\net8.0\operadoresrelacinais.pdb
+C:\Users\evellyn.bgrocha\source\repos\operadoresrelacinais\obj\Debug\net8.0\operadoresrelacinais.genruntimeconfig.cache
+C:\Users\evellyn.bgrocha\source\repos\operadoresrelacinais\obj\Debug\net8.0\ref\operadoresrelacinais.dll
