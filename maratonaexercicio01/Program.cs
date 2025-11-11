@@ -22,6 +22,17 @@ para Fahrenheit. A fórmula para conversão é:
 Dica: Declare uma constante para armazenar o valor 9/5 e faça o
 cálculo com a variável fornecida.*/
 
+const double fracao = 9.0 / 5.0;
+const int numero = 32;
+double celsius = 23;
+double conversao = (celsius * fracao) + numero;
+string c = "em Celsius é igual a";
+string fahreinhet = " em Fahreinhet";
+char simbolo = 'º';
+
+Console.WriteLine($"{celsius}{simbolo} {c} {conversao}{simbolo}{fahreinhet}");
+
+
 
 
 /*3. Impressão de Dados do Usuário
@@ -30,6 +41,12 @@ Descrição: Crie um script que solicite ao usuário seu nome, idade e
 cidade e depois mostre uma mensagem com essas informações.
 Exemplo: "Meu nome é João, tenho 25 anos e moro em São Paulo".
 Dica: Use tanto concatenação quanto interpolação.*/
+
+string nome = "Evellyn Barbara";
+int idade = 17;
+string cidade = "Taboão da Serra";
+
+Console.WriteLine($"Olá, meu nome é {nome}, tenho " + idade + $" anos, e moro em {cidade}.");
 
 
 
