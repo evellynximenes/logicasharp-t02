@@ -1,0 +1,15 @@
+C:\Users\evellyn.bgrocha\source\repos\vetoresmatrizes\bin\Debug\net8.0\vetoresmatrizes.exe
+C:\Users\evellyn.bgrocha\source\repos\vetoresmatrizes\bin\Debug\net8.0\vetoresmatrizes.deps.json
+C:\Users\evellyn.bgrocha\source\repos\vetoresmatrizes\bin\Debug\net8.0\vetoresmatrizes.runtimeconfig.json
+C:\Users\evellyn.bgrocha\source\repos\vetoresmatrizes\bin\Debug\net8.0\vetoresmatrizes.dll
+C:\Users\evellyn.bgrocha\source\repos\vetoresmatrizes\bin\Debug\net8.0\vetoresmatrizes.pdb
+C:\Users\evellyn.bgrocha\source\repos\vetoresmatrizes\obj\Debug\net8.0\vetoresmatrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evellyn.bgrocha\source\repos\vetoresmatrizes\obj\Debug\net8.0\vetoresmatrizes.AssemblyInfoInputs.cache
+C:\Users\evellyn.bgrocha\source\repos\vetoresmatrizes\obj\Debug\net8.0\vetoresmatrizes.AssemblyInfo.cs
+C:\Users\evellyn.bgrocha\source\repos\vetoresmatrizes\obj\Debug\net8.0\vetoresmatrizes.csproj.CoreCompileInputs.cache
+C:\Users\evellyn.bgrocha\source\repos\vetoresmatrizes\obj\Debug\net8.0\vetoresmatrizes.sourcelink.json
+C:\Users\evellyn.bgrocha\source\repos\vetoresmatrizes\obj\Debug\net8.0\vetoresmatrizes.dll
+C:\Users\evellyn.bgrocha\source\repos\vetoresmatrizes\obj\Debug\net8.0\refint\vetoresmatrizes.dll
+C:\Users\evellyn.bgrocha\source\repos\vetoresmatrizes\obj\Debug\net8.0\vetoresmatrizes.pdb
+C:\Users\evellyn.bgrocha\source\repos\vetoresmatrizes\obj\Debug\net8.0\vetoresmatrizes.genruntimeconfig.cache
+C:\Users\evellyn.bgrocha\source\repos\vetoresmatrizes\obj\Debug\net8.0\ref\vetoresmatrizes.dll
