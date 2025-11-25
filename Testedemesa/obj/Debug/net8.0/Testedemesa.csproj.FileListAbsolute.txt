@@ -1,0 +1,15 @@
+C:\Users\evellyn.bgrocha\source\repos\Testedemesa\bin\Debug\net8.0\Testedemesa.exe
+C:\Users\evellyn.bgrocha\source\repos\Testedemesa\bin\Debug\net8.0\Testedemesa.deps.json
+C:\Users\evellyn.bgrocha\source\repos\Testedemesa\bin\Debug\net8.0\Testedemesa.runtimeconfig.json
+C:\Users\evellyn.bgrocha\source\repos\Testedemesa\bin\Debug\net8.0\Testedemesa.dll
+C:\Users\evellyn.bgrocha\source\repos\Testedemesa\bin\Debug\net8.0\Testedemesa.pdb
+C:\Users\evellyn.bgrocha\source\repos\Testedemesa\obj\Debug\net8.0\Testedemesa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evellyn.bgrocha\source\repos\Testedemesa\obj\Debug\net8.0\Testedemesa.AssemblyInfoInputs.cache
+C:\Users\evellyn.bgrocha\source\repos\Testedemesa\obj\Debug\net8.0\Testedemesa.AssemblyInfo.cs
+C:\Users\evellyn.bgrocha\source\repos\Testedemesa\obj\Debug\net8.0\Testedemesa.csproj.CoreCompileInputs.cache
+C:\Users\evellyn.bgrocha\source\repos\Testedemesa\obj\Debug\net8.0\Testedemesa.sourcelink.json
+C:\Users\evellyn.bgrocha\source\repos\Testedemesa\obj\Debug\net8.0\Testedemesa.dll
+C:\Users\evellyn.bgrocha\source\repos\Testedemesa\obj\Debug\net8.0\refint\Testedemesa.dll
+C:\Users\evellyn.bgrocha\source\repos\Testedemesa\obj\Debug\net8.0\Testedemesa.pdb
+C:\Users\evellyn.bgrocha\source\repos\Testedemesa\obj\Debug\net8.0\Testedemesa.genruntimeconfig.cache
+C:\Users\evellyn.bgrocha\source\repos\Testedemesa\obj\Debug\net8.0\ref\Testedemesa.dll

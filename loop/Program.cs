@@ -1,5 +1,7 @@
 ﻿// loop for
-for(int i = 1; i <=10; i++)
+using System.Net;
+
+for (int i = 1; i <=10; i++)
 {
     Console.WriteLine(i);
 }
@@ -64,3 +66,14 @@ foreach ( int numero in numeros)
 {
     Console.WriteLine(numero); // imprimi cada numero exibindo na tela
 }
+
+// solicitando ao usuário a digitação 
+double preco, total = 0;
+do
+{
+    Console.Write("digite o preço do produto (0 para finalizar):");
+    preco = Convert.ToDouble(Console.ReadLine());
+    total += preco;
+} while (preco != 0);
+
+Console.WriteLine($"\nTotal da Compra: R$ {total:F2}");
