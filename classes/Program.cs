@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -33,6 +34,49 @@ namespace logica13
                 }
             }
         }
-                          
+       //método público para exibir informação de carro
+       public void ExibirInformacoes()
+        {
+            Console.WriteLine($"Marca:{Marca}");
+            Console.WriteLine($"Modelo:{modelo}");
+            Console.WriteLine($"Ano: {ano}");
+
+            //Método para calcular a idade do carro 
+            public int CalcularIdade()
+        {
+            int anoAtual = DateTime.Now.Year;
+            return anoAtual - ano;
+        }
+        //Método para definir o modelo 
+        public void DefinirModelo (string modelo)
+        {
+            modelo = modelo;
+        }
+
+    }
+    internal class program
+    {
+        static void Main(string[] args)
+        {
+            //criando um objeto de classe carro
+            carro meuCarro = new carro();
+
+            //atribuindo valores a popriedades públicas e privadas
+            meuCarro.Marca = "toyota";
+            meuCarro.DefinirModelo("corolla");// Usando método para definir o modelo, poís é privado
+            meuCarro.ano = 2020;//propriedade Ano é pública, mas com uma validação interna
+                                
+            //exibindo informações do carro
+            meuCarro.ExibirInformacoes();
+
+            //Calculandoe exibindo idade do carro 
+            int idadeCarro = meuCarro.CalcularIdade();
+            Console.WriteLine($"Idade do Carro: {idadeCarro} anos.");
+
+            //Matntendo o console aberto
+            Console.ReadLine();
+
+
+        }
     }
 }
